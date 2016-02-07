@@ -31,6 +31,7 @@ python PoisonIvy.py $@
 python PredatorPain.py $@
 python Punisher.py $@
 python QRat.py $@
+python Sakula.py $@
 python ShadowTech.py $@
 python SmallNet.py $@
 python SpyGate.py $@
