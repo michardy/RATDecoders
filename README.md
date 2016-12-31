@@ -9,6 +9,9 @@ If you wish to contribute please feel free to fork or email me on decoders@malwa
 
 The write-up is here http://techanarchy.net/2014/04/rat-decoders/
 
+###About this Fork
+This fork was made for the purpose of running all the tests at once.  Being this can now be done with the main version I would advise using [kevthehermit/RATDecoders](https://github.com/kevthehermit/RATDecoders).  
+
 ###Current Rats
 Here is a list of the currently supported RATS:
 
